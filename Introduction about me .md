@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrightSidedGaming45
+- 👋 Hi, I’m BrightSidedGaming45
 - 👀 I’m interested in Gaming and now, I started to learn coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on nothing :)
